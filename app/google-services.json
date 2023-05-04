@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436800386581",
+    "project_id": "fanmobiletest-2fffb",
+    "storage_bucket": "fanmobiletest-2fffb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436800386581:android:45b33ed2bbf0ef8ead001c",
+        "android_client_info": {
+          "package_name": "com.lado.fanmobiletest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436800386581-hjg6rjol5piccblp0mvm9301ak5s2194.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTBv7yycwY9JrAfjmisH8zi6KmrWQku_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436800386581-hjg6rjol5piccblp0mvm9301ak5s2194.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
